@@ -343,7 +343,7 @@ body:has(#contact:target) .nav-link[href="#contact"]::after {
     display: none;
 }
 
-/* SECTION HEADINGS */
+
 
 .section-heading {
     margin-bottom: clamp(3rem, 6vw, 5rem);
@@ -365,7 +365,7 @@ body:has(#contact:target) .nav-link[href="#contact"]::after {
     letter-spacing: -0.025em;
 }
 
-/* ABOUT */
+
 
 .about-grid {
     display: grid;
@@ -416,7 +416,7 @@ body:has(#contact:target) .nav-link[href="#contact"]::after {
     margin-bottom: 0;
 }
 
-/* SKILLS */
+
 
 .skills-grid {
     display: grid;
@@ -452,7 +452,7 @@ body:has(#contact:target) .nav-link[href="#contact"]::after {
     color: var(--warm-ivory);
 }
 
-/* FRENCH LANGUAGE FEATURE */
+
 
 .language-feature {
     display: grid;
@@ -481,7 +481,7 @@ body:has(#contact:target) .nav-link[href="#contact"]::after {
     align-self: end;
 }
 
-/* PROJECTS */
+
 
 .section-heading-row {
     display: flex;
@@ -538,8 +538,6 @@ body:has(#contact:target) .nav-link[href="#contact"]::after {
     margin-bottom: 0;
     font-size: 1rem;
 }
-
-/* EDUCATION TIMELINE */
 
 .timeline {
     position: relative;
@@ -600,7 +598,7 @@ body:has(#contact:target) .nav-link[href="#contact"]::after {
     margin-bottom: 0;
 }
 
-/* JOURNEY */
+
 
 .journey-grid {
     display: grid;
